@@ -16,11 +16,11 @@ A web scraper for extracting car listings from ss.lv, a popular classifieds webs
    git clone https://github.com/NutellaON/sslv-car-scraper.git
    cd sslv-car-scraper
 2. Install required depencies
-
+   ```bash
    pip install -r requirements.txt
 
 4. Run the scraper:
-
+   ```bash
    python scraper.py
 
 ## Usage
