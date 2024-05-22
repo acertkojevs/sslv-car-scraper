@@ -3,8 +3,9 @@ import re
 import warnings
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 warnings.filterwarnings("ignore", "\nPyarrow", DeprecationWarning)
+import pandas as pd
+
 
 
 
