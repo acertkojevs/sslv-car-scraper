@@ -13,7 +13,7 @@ A web scraper for extracting car listings from ss.lv, a popular classifieds webs
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NutellaON/sslv-car-scraper.git
+   git clone https://github.com/acertkojevs/sslv-car-scraper.git
    cd sslv-car-scraper
 2. Install required depencies
    ```bash
