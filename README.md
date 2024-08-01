@@ -25,7 +25,7 @@ A web scraper for extracting car listings from ss.lv, a popular classifieds webs
 
 ## Usage
 When you run the script, you will be prompted to enter a URL from the ss.lv car listings page.
-The scraper will fetch data from multiple pages and save it to scraped_data.csv.
+The scraper will fetch data from multiple pages and save it to "scraped_data.csv".
 Dependencies
 requests: For making HTTP requests to fetch web pages.
 beautifulsoup4: For parsing HTML and extracting data.
@@ -34,4 +34,4 @@ pandas: For data manipulation and exporting to CSV.
 To use the scraper, provide the URL of the car listings page when prompted. For example:
 
 SS.LV Car URL: https://www.ss.lv/lv/transport/cars/jaguar/
-The scraper will then process the data and export it to a CSV file named scraped_data.csv.
+The scraper will then process the data and export it to a CSV file named "scraped_data.csv".
